@@ -28,8 +28,8 @@ p{
 }
 
 .banner{
-    background-image: url('../IMG/pousada-chapada-dos-veadeiros-3.jpg');
-    opacity: 0.8;
+    background-image: url('../IMG/pousada-chapada-dos-veadeiros.jpeg');
+    opacity: 1;
     background-size: cover;
     text-align: center;
     padding: 160px 0px;
@@ -72,7 +72,7 @@ div h2{
 
 .texto{
   margin: 50px 50px;
-  padding: 50px 50px;
+  padding: 10px 50px;
 }
 .cards{
     display: flex;    
